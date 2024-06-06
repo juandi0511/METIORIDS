@@ -1,4 +1,4 @@
-# Meteorids: Desafío Espacial 🚀🌌
+# Meteorids 🚀🌌
 
 ## Descripción:
 Estás al mando de una nave espacial, enfrentándote a una oleada tras otra de meteoritos y objetos espaciales de distintas formas y colores que se aproximan a gran velocidad. Tu misión es maniobrar habilidosamente para evitar que estos objetos dañen tu nave.
