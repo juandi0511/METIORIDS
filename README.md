@@ -1,52 +1,54 @@
-# Brave Soldier 💀🧟‍♂️
+# Meteorids: Desafío Espacial 🚀🌌
 
-### Descripción:
-Eres un valiente soldado en medio de un mundo post-apocalíptico infestado de zombies. Tu misión es esquivar a estos horripilantes seres mientras avanzas a través de desafiantes plataformas para llegar al siguiente nivel y sobrevivir otro día. 🏃‍♂️💥
+## Descripción:
+Estás al mando de una nave espacial, enfrentándote a una oleada tras otra de meteoritos y objetos espaciales de distintas formas y colores que se aproximan a gran velocidad. Tu misión es maniobrar habilidosamente para evitar que estos objetos dañen tu nave.
 
-### Objetivo:
-Acumula la mayor cantidad de puntos posible recolectando monedas dispersas por los mapas y evitando ser atrapado por los zombies. Demuestra tu destreza y habilidad en esta lucha por la supervivencia. 💰🧟‍♂️
+## Objetivo:
+Naviga a través de diversas etapas y acumula la mayor cantidad de puntos posible, mejorando tus habilidades cognitivas y de reacción. Aspira a alcanzar las puntuaciones más altas y demuestra tu destreza como piloto espacial.
 
-### Requisitos del sistema:
+## Requisitos del sistema:
 
-#### Hardware:
-- **CPU:** Ryzen 5 3500X 6-Core, 3.60 GHz
-- **RAM:** 8 GB
-- **Tarjeta gráfica:** NVIDIA 1050Ti
-- **Monitor:** Cualquier pantalla con una frecuencia de refresco de 60 Hz o superior. 🖥️🎮
+## Hardware:
+CPU: Ryzen 5 3500X 6-Core, 3.60 GHz
+RAM: 8 GB
+Tarjeta gráfica: NVIDIA 1050Ti
+Monitor: Cualquier pantalla con frecuencia de refresco de 60 Hz o superior.
 
-#### Software:
-- **Sistema Operativo:** Windows, Mac y Linux 💻🐧
+## Software:
+Sistema Operativo: Windows, Mac y Linux
 
-### Mecánicas del juego:
+## Controles:
+Movimiento: Arrastra el mouse a través del mapa para mover la nave.
+Disparar: Haz clic izquierdo para disparar los rayos láser de la nave.
 
-#### Jugabilidad básica:
-Navega a través de diversos niveles utilizando las teclas de flecha para moverte y saltar. Tu objetivo es llegar al final del nivel mientras recolectas monedas y evitas ser atrapado por los zombies. 🎮⬅️⬆️➡️⬇️
+## Mecánicas del juego:
 
-#### Sistema de puntuación:
-Por cada moneda recolectada, ganarás 1 punto. ¡Haz todo lo posible por conseguir la mayor cantidad de puntos y superar tu récord personal! 💰🏆
+## Jugabilidad básica:
+Avanza por la mayor cantidad de etapas posibles, evitando que tanto el jugador como la base pierdan todas sus vidas. 🌠🛸
 
-#### Mecánicas de los enemigos:
-Los zombies se mueven rápidamente de izquierda a derecha, tratando de interceptarte. Debes ser ágil y estar atento para evitar ser atrapado por ellos. 🧟‍♂️💨
+## Sistema de puntuación:
+Obtén 100 puntos por cada objeto destruido. Cada vez que pierdes vidas, tanto el jugador como la base, se restarán 100 puntos por igual. ⚡💥
 
-### Personajes:
+## Mecánicas de los objetos:
+Los objetos se acercan a velocidades y desde posiciones aleatorias, cada uno con diferentes niveles de resistencia. 🌀
 
-![image](https://github.com/juandi0511/METIORIDS/assets/150086305/f5b7cd52-b3e2-4060-9049-62cb898ab4b5)
+## Personajes:
+Yo añado las imágenes
 
-![image](https://github.com/juandi0511/METIORIDS/assets/150086305/12086c48-1d2e-4c8e-88db-0f7cbfc1052d)
+## Consejos y estrategias:
 
-![image](https://github.com/juandi0511/METIORIDS/assets/150086305/ecacc975-e783-4b17-8377-65a95033131b)
+A) Vigilancia constante:
+Mantente siempre alerta a tu entorno, pues muchos objetos pueden aparecer repentinamente a altas velocidades. 🚀👀
 
+B) Mantén la posición:
+Trata de no salir de tu base (línea blanca), ya que al hacerlo, te expones a impactos de objetos que podrían costarte una vida. ⚠️🛑
 
+C) Maximiza tu puntuación:
+Esmerarte en conseguir la mayor cantidad de puntos posibles te posicionará en la cima entre tus amigos. Desafíalos a batir tu récord. 🏆👾
 
+## Derechos de autor:
 
-### Consejos y estrategias:
+© 2024 SoftWave Innovations. Todos los derechos reservados.
 
-#### A) Utiliza el timing correcto:
-Aprovecha el momento adecuado para saltar sobre plataformas y evitar a los zombies. Dominar el timing te ayudará a sobrevivir en este mundo peligroso. ⏰
-
-#### B) Administra tus vidas:
-Tienes un número limitado de vidas. No arriesgues una vida innecesariamente. Si una acción parece demasiado arriesgada, es mejor evitarla y conservar tus vidas para situaciones más críticas. ❤️
-
-#### C) Supera tu récord:
-Desafía a tus amigos a superar tu puntuación más alta. Cuantos más puntos acumules, más difícil será de superar, ¡así que asegúrate de estar siempre en la cima! 🚀🥇
+Este juego, incluyendo pero no limitado a, el código, gráficos, música, y texto, es propiedad de SoftWave Innovations. Queda estrictamente prohibida la reproducción total o parcial de este juego, de cualquier manera y por cualquier medio, sin el consentimiento previo y por escrito del titular de los derechos.
 
