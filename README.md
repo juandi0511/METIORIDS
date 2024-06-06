@@ -32,8 +32,9 @@ Obtén 100 puntos por cada objeto destruido. Cada vez que pierdes vidas, tanto e
 ## Mecánicas de los objetos:
 Los objetos se acercan a velocidades y desde posiciones aleatorias, cada uno con diferentes niveles de resistencia. 🌀
 
-## Personajes:
-Yo añado las imágenes
+## Personaje:
+![image](https://github.com/juandi0511/METIORIDS/assets/150086305/8f196ae2-89cc-497b-8367-d96b607244ab)
+
 
 ## Consejos y estrategias:
 
